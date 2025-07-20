@@ -42,7 +42,8 @@ I'm a seasoned and versatile Software Engineer with deep expertise across a wide
 </p>
 
 📫 How to Reach Me
-<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/facebook_black_logo_icon_147136.png" alt="Facebook" width="15" height="15"/> SalmanAboholiqah
+
+<img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Facebook" width="15" height="15"/> SalmanAboholiqah
 
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="15" height="15"/> @coder.arts
 
