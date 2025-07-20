@@ -1,75 +1,54 @@
-Hi there, I'm [Your Name]! 👋
-<a href="https://www.google.com/search?q=https://github.com/your-username">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub" alt="Your GitHub Stats" />
-</a>
-
-<br/>
-
-I'm a passionate and creative developer with a love for building innovative and user-friendly applications. I'm always eager to learn new technologies and take on challenging projects.
-
-🚀 Now Learning:
-
-Next.js
-
-GraphQL
-
-Docker
-
-🔧 Tech Stack
-Here are a few of the technologies I've been working with recently:
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-🌟 Featured Projects
-Here are some of the projects I'm most proud of. You can find more on my repositories page!
-
-Project
-
-Description
-
-Link
-
-Project Name 1
-
-A brief but compelling description of your project. What problem does it solve? What technologies did you use?
-
-Link to Repo
-
-Project Name 2
-
-Another great project! Highlight the key features and your role in developing them.
-
-Link to Repo
-
-Project Name 3
-
-This one is special. Talk about the challenges you overcame and what you learned.
-
-Link to Repo
-
-📊 GitHub Stats
+Hello, I'm SALMAN ABOHOLIQA! 👋
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26theme%3Dvision-friendly-dark" alt="Top Languages" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-username%26theme%3Ddark" alt="GitHub Streak" />
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952a5csar5mw9vuxjr88vzl9qssnnmhabqk7zu7b1mq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" height="auto"/>
 </p>
 
-📫 Let's Connect!
-I'm always open to connecting with other developers and collaborating on exciting projects. Feel free to reach out!
+🧑‍💻 About Me
+I'm a seasoned and versatile Software Engineer with deep expertise across a wide spectrum of technologies. From low-level systems programming with C/C++ to building sophisticated enterprise applications with .NET and creating high-performance mobile and web solutions, I thrive on architecting and developing robust, scalable, and efficient software. My passion lies in solving complex challenges and engineering clean, maintainable systems that drive business value.
 
+🛠️ Core Skills
+🖥️ Desktop & Enterprise Development — Building powerful applications with C#, VB.Net, F#, and the .NET Framework, including Entity Framework and DevExpress.
+
+🌐 Full-Stack Web Development — Crafting dynamic web solutions using Node.js, Vue.js, Laravel (PHP), and ASP.NET.
+
+📱 Cross-Platform Mobile Apps — Designing beautiful and performant mobile experiences with Flutter (Dart) and Kotlin/JAVA.
+
+⚙️ ERP & Business Solutions — Specializing in custom Frappe/ERPNext development to streamline business processes.
+
+🐍 Scripting & Automation — Leveraging Python for automation, data processing, and backend services.
+
+🛠 Technologies & Frameworks
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/></a>
-<a href="mailto:your-email@example.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+<a href="https://fsharp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+<a href="https://frappeframework.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*Uu4UJj45p0AF1eU1QO_xZw.png" alt="Frappe Framework" width="40" height="40"/> </a>
 </p>
 
-😂 Random Tech Joke
-<a href="https://www.google.com/search?q=https://readme-jokes.vercel.app/api" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api" alt="README Jokes">
-</a>
+📫 How to Reach Me
+<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/facebook_black_logo_icon_147136.png" alt="Facebook" width="15" height="15"/> SalmanAboholiqah
+
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="15" height="15"/> @coder.arts
+
+📊 My GitHub Stats
+Remember to change your-username to your actual GitHub username!
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-aboholiqah&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=salman-aboholiqah&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
