@@ -4,6 +4,8 @@ Hello, I'm SALMAN ABOHOLIQA! 👋
 </p>
 
 🧑‍💻 About Me
+
+
 I'm a seasoned and versatile Software Engineer with deep expertise across a wide spectrum of technologies. From low-level systems programming with C/C++ to building sophisticated enterprise applications with .NET and creating high-performance mobile and web solutions, I thrive on architecting and developing robust, scalable, and efficient software. My passion lies in solving complex challenges and engineering clean, maintainable systems that drive business value.
 
 🛠️ Core Skills
