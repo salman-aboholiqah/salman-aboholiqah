@@ -47,8 +47,7 @@ I'm a seasoned and versatile Software Engineer with deep expertise across a wide
 
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="15" height="15"/> @coder.arts
 
-📊 My GitHub Stats
-Remember to change your-username to your actual GitHub username!
+
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-aboholiqah&show_icons=true&locale=en&layout=compact&theme=radical" />
